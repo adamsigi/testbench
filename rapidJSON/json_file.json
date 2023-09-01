@@ -1,0 +1,26 @@
+{
+    "name": "world",
+    "ass": true ,
+    "f": false,
+    "n": null,
+    "teacher": {
+        "first_name": "Morgan",
+        "last_name": "Black",
+        "age": 234
+    },
+    "i": 123,
+    "pi": 3.1416,
+    "a": [1, 2, 3, 4],
+    "persons": [
+        {
+            "first_name": "Adam",
+            "last_name": "Sigi",
+            "age": 28
+        },
+        {
+            "first_name": "Fot",
+            "last_name": "Sigi",
+            "age": 28
+        }
+    ]
+}

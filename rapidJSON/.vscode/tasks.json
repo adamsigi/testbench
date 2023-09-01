@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "type": "shell",
+        "command": "/usr/bin/g++",
+        "args": [
+          "${workspaceFolder}/filter_4.cpp",
+          "-o",
+          "${workspaceFolder}/filter_4",
+          "-lm",
+          "-g"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
